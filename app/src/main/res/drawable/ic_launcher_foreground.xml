@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="2.5"
+        android:scaleY="2.5"
+        android:translateX="24"
+        android:translateY="24">
+        <!-- Speech bubble in crisp ivory -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M20,2H4C2.9,2 2,2.9 2,4V16C2,17.1 2.9,18 4,18H16L22,22V4C22,2.9 21.1,2 20,2Z" />
+        <!-- Question mark curve in deep emerald teal -->
+        <path
+            android:fillColor="#FF0D5454"
+            android:pathData="M12,5.2C9.7,5.2 8.2,6.6 8.2,8.5H10.6C10.6,7.6 11.2,7.1 12,7.1C12.8,7.1 13.4,7.6 13.4,8.3C13.4,9.1 12.6,9.5 11.7,10.2C11.0,10.7 10.8,11.3 10.8,12.2H13.2C13.2,11.6 13.4,11.3 14.1,10.8C15.0,10.1 15.8,9.4 15.8,8.2C15.8,6.4 14.3,5.2 12,5.2Z" />
+        <!-- Question mark dot -->
+        <path
+            android:fillColor="#FF0D5454"
+            android:pathData="M10.8,13.4H13.2V15.6H10.8Z" />
+        <!-- Warm saffron spark accent -->
+        <path
+            android:fillColor="#FFF6B756"
+            android:pathData="M6.2,4.2L6.8,5.6L8.2,6.2L6.8,6.8L6.2,8.2L5.6,6.8L4.2,6.2L5.6,5.6Z" />
+    </group>
+</vector>

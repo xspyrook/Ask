@@ -1,0 +1,6 @@
+{
+  "name": "هلا سؤال",
+  "description": "تطبيق اجتماعي عربي لطرح الأسئلة وتبادل الإجابات والمعرفة مع مساعد ذكي ونظام نقاط ومستويات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
